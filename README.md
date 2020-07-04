@@ -15,3 +15,6 @@ ab -c 500 http://your.host.name
 ```
 string a-z only
 https://stackoverflow.com/questions/38598532/laravel-validation-rule-for-only-letters
+
+hasil validasi return bahasa indonesia
+https://medium.com/@syofyanzuhad/laravel-indonesian-validation-language-ad172d3936bd
