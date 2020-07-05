@@ -24,3 +24,6 @@ https://stackoverflow.com/questions/39281594/error-1698-28000-access-denied-for-
 
 composer install
 https://www.ionos.com/community/hosting/php/install-and-use-php-composer-on-ubuntu-1604/
+
+validation unique laravel PUT
+https://stackoverflow.com/questions/23587833/laravel-validation-unique-on-update
