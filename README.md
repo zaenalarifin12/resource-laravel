@@ -30,3 +30,8 @@ https://stackoverflow.com/questions/23587833/laravel-validation-unique-on-update
 
 update relation many to many
 https://stackoverflow.com/questions/24702640/laravel-save-update-many-to-many-relationship
+
+article laravel
+```
+https://www.codechief.org/
+```
