@@ -38,3 +38,6 @@ https://www.codechief.org/
 
 LOAD MORE
 https://stackoverflow.com/questions/57021856/how-to-implement-do-load-more-or-see-more-in-laravel
+
+cara mencari file menggunakan command line 
+find . -name AuthenticatesUsers\*
